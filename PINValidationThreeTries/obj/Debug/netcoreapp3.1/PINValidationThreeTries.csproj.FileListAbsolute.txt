@@ -1,0 +1,14 @@
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.AssemblyInfoInputs.cache
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.AssemblyInfo.cs
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.csproj.CoreCompileInputs.cache
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\bin\Debug\netcoreapp3.1\PINValidationThreeTries.exe
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\bin\Debug\netcoreapp3.1\PINValidationThreeTries.deps.json
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\bin\Debug\netcoreapp3.1\PINValidationThreeTries.runtimeconfig.json
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\bin\Debug\netcoreapp3.1\PINValidationThreeTries.runtimeconfig.dev.json
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\bin\Debug\netcoreapp3.1\PINValidationThreeTries.dll
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\bin\Debug\netcoreapp3.1\PINValidationThreeTries.pdb
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.dll
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.pdb
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.genruntimeconfig.cache
+C:\Users\Monkey\source\repos\WhileLoop\PINValidationThreeTries\obj\Debug\netcoreapp3.1\PINValidationThreeTries.csproj.AssemblyReference.cache

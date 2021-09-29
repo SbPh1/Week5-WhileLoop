@@ -1,0 +1,14 @@
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.csproj.AssemblyReference.cache
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.AssemblyInfoInputs.cache
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.AssemblyInfo.cs
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.csproj.CoreCompileInputs.cache
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.exe
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.deps.json
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.runtimeconfig.json
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.runtimeconfig.dev.json
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.dll
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\bin\Debug\netcoreapp3.1\LoginValidation.pdb
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.dll
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.pdb
+C:\Users\Monkey\source\repos\WhileLoop\LoginValidation\obj\Debug\netcoreapp3.1\LoginValidation.genruntimeconfig.cache
