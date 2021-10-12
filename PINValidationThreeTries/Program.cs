@@ -32,8 +32,9 @@ namespace PINValidationThreeTries
                     i = i + 1;
                     Console.WriteLine($"Vale PIN. {3 - i} katset on jäänud.");
                 }
-                Console.WriteLine("Kena päeva!");
+                
             }
+            Console.WriteLine("Kena päeva!");
         }
     }
 }
